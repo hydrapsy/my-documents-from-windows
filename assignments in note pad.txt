@@ -1,0 +1,8 @@
+<html>
+<head>
+ <title>HTML written in Notepad</title>
+</head>
+<body>
+ <p>i would have not thouht this was so easy!</p>
+</body>
+</html>
